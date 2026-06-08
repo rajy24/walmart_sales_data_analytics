@@ -4,12 +4,11 @@
 
 ## Project Overview
 
-This project analyzes Walmart sales data using PostgreSQL.
+This project analyzes Walmart sales data using Python, PostgreSQL, and SQL.
 
-The dataset was obtained from Kaggle and cleaned before analysis.
+The dataset was obtained from Kaggle, cleaned using Pandas, and loaded into PostgreSQL for analysis.
 
-I solved 10 business problems using SQL queries and PostgreSQL.
-
+The project focuses on solving 10 real-world business problems using SQL queries and analytical techniques.
 ---
 
 ## Tools Used
@@ -21,6 +20,16 @@ I solved 10 business problems using SQL queries and PostgreSQL.
 - Kaggle Dataset
 
 ---
+
+## Repository Contents
+
+- walmart_cleaned.csv : Cleaned Walmart sales dataset
+- walmart_DA.sql : SQL queries used for business analysis
+- proj.ipynb : Data cleaning and preprocessing notebook
+- walmart_proj_img_og.png : Project workflow image
+
+
+  ---
 
 ## SQL Concepts Used
 
@@ -65,4 +74,4 @@ I solved 10 business problems using SQL queries and PostgreSQL.
 
 ## Author
 
-Raj
+Raj Yadav
