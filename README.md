@@ -1,6 +1,6 @@
 # Walmart Sales Data Analytics Project
 
-![Banner](walmart_proj_img_og.png)
+![Banner](walmart_img.png)
 
 ## Project Overview
 
